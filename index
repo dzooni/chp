@@ -1,0 +1,6 @@
+                                                 Indeks aplikacije
+
+Aplikacija sadrzi jQuery, HTML5 i CSS3 elemente, sto daje 'ljusku' aplikacije (tzv. 'graphic shell'). Jezgro (tzv. 'core') je baza podataka (MySQL, PostgreSQL, SQLite) kroz koju cirkulisu podaci putem nekog skriptnog jezika (npr. PHP). Jezgro nije vidljivo obicnom korisniku. Korisnik moze manipulisati ljuskom aplikacije, a to podrazumeva manipulisanje osobinama plocica na stranici i njihovim polozajima. Ovo omogucava jQuery. jQuery takodje pokrece i vidzete. Da bi se omogucila veza izmedju vidzeta i baze potreban je neki skriptni jezik (npr. PHP) koji ce sacuvati promene na vidzetima za naredno koriscenje. Kako bi plocice i vidzeti ostali u sacuvanom polozaju i naredni put kada korisnik zeli da koristi aplikaciju, koristi se sistem koordinata. Koordinate se pamte u bazi za svaku plocicu ponaoosob i ona se vraca na to mesto.
+
+
+
